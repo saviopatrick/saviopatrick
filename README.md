@@ -16,7 +16,7 @@
     │
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── /developer fronted
+    │   ├── /developer front-end
     │   │   └── at project cosmo
     │   ├── /computer science 
     │   │   └── at universidade federal do maranhão
@@ -27,7 +27,7 @@
     │   ├── /linux
     │   │   └── ubuntu_linux (main)
     │   └── /windows
-    │       └── Windows 11
+    │   │   └── Windows 11
     │   └── /mac
     │       └── macOS
     │
