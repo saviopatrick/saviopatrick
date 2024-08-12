@@ -32,20 +32,20 @@
     │       └── macOS
     │
     ├── /languages
-    │   ├── React.js
-    │   ├── C++
-    │   ├── Next.js
-    │   ├── TypeScript
-    │   ├── Java
-    │   └── Python
+    │   ├── react.js
+    │   ├── c++
+    │   ├── next.js
+    │   ├── typeScript
+    │   ├── java
+    │   └── python
     │
     └── /learning
-        ├── Performance Optimization
-        ├── Webpack
-        ├── Tailwind CSS
+        ├── performance optimization
+        ├── webpack
+        ├── tailwind CSS
         ├── SASS/SCSS
-        ├── Progressive Web Apps (PWA)
-        └── Responsive Web Design
+        ├── progressive web apps (PWA)
+        └── responsive web design
         
   </tr>
 </table>
