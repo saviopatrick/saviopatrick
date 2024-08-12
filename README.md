@@ -6,9 +6,9 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
-      ┏┓┏┓┓┏┳┏┓┏┓┏┓┏┳┓┳┓┳┏┓┓┏┓
-      ┗┓┣┫┃┃┃┃┃┃┃┣┫ ┃ ┣┫┃┃ ┃┫ 
-      ┗┛┛┗┗┛┻┗┛┣┛┛┗ ┻ ┛┗┻┗┛┛┗┛
+      ┏┓┏┓┓┏┳┏┓ ┏┓┏┓┏┳┓┳┓┳┏┓┓┏┓
+      ┗┓┣┫┃┃┃┃┃ ┃┃┣┫ ┃ ┣┫┃┃ ┃┫ 
+      ┗┛┛┗┗┛┻┗┛ ┣┛┛┗ ┻ ┛┗┻┗┛┛┗┛
 
 </p>
 
@@ -40,10 +40,12 @@
     │   └── Python
     │
     └── /learning
-        ├── editing codes in Vim
-        ├── Golang
-        ├── Rust
-        └── Zig
+        ├── Performance Optimization
+        ├── Webpack
+        ├── Tailwind CSS
+        ├── SASS/SCSS
+        ├── Progressive Web Apps (PWA)
+        └── Responsive Web Design
         
   </tr>
 </table>
