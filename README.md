@@ -27,7 +27,7 @@
     │   ├── /linux
     │   │   └── ubuntu_linux (main)
     │   └── /windows
-    │   │   └── Windows 11
+    │   │   └── windows 11
     │   └── /mac
     │       └── macOS
     │
