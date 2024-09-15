@@ -17,9 +17,9 @@
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── /developer front-end
-    │   │   └── at project cosmo
+    │   │   └── at project cosmo (Laboratório Telemidia)
     │   ├── /computer science 
-    │   │   └── at universidade federal do maranhão
+    │   │   └── at universidade federal do maranhão (UFMA)
     │   └── /developer full stack
     │       └── at freelancer
     │
@@ -46,6 +46,7 @@
         ├── SASS/SCSS
         ├── progressive web apps (PWA)
         └── responsive web design
+
         
   </tr>
 </table>
